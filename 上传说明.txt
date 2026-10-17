@@ -1,0 +1,5 @@
+先解压，再将里面的文件和 assets、docs 文件夹上传到 GitHub 仓库根目录。不要仅上传 ZIP。
+
+详细步骤请打开 README.md。
+
+Public 仓库 + Settings → Pages → Deploy from a branch → main → /(root) → Save。
